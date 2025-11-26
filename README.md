@@ -1,5 +1,6 @@
-[## Rokomari Website:##] (https://www.rokomari.com/)
-# Rokomari Web Automation
+**Rokomari Website-(https://www.rokomari.com/)**
+
+Rokomari Web Automation
 
 Automated testing project for the Rokomari website using 
 **Selenium WebDriver**, 
